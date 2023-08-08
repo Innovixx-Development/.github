@@ -1,4 +1,3 @@
-# Innovixx: Build Better With innovixx
 We optimise your business digitally and help you achieve more by delivering high-quality websites, mobile applications, eCommerce experiences and creative brand packages.
 
 ## We Are Looking For Developers
